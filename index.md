@@ -5,3 +5,9 @@ title: Welcome to my blog
 #### Second Blog
 
 __Bold blog__
+
+---
+def func(a, b):
+  c = a + b
+  return c
+---
